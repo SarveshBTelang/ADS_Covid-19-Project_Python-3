@@ -1,4 +1,4 @@
-# Realtime Covid-19 Cases Dashboard using Python-3
+# Realtime Covid-19 Cases Dashboard using Python
 SARVESH BHALCHANDRA TELANG
 Matrikel Nr. 422444
 TUKL CVT
